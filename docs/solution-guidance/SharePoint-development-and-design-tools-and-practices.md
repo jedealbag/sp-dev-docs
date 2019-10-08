@@ -223,9 +223,9 @@ public static ClientResult<DesignPackageInfo> ExportSmallBusiness(
 
 ## Design tool options for SharePoint Online
 
-The tools you can use to brand a SharePoint Online site depend on your SharePoint Online edition and the type of site you want to build. The Small Business edition, for example, includes one team site and one public site. It does not include a publishing site. You can use the Site Builder add-in in SharePoint Online to customize public site branding.
+The tools you can use to brand a SharePoint Online site depend on your SharePoint Online edition and the type of site you want to build. 
 
-The Enterprise edition includes a team site collection at the root web application for the domain that does not include publishing. It does not include a public site. Use Design Manager to manage SharePoint site branding elements for the publishing site in the SharePoint Online Enterprise edition.
+The Enterprise edition includes a team site collection at the root web application for the domain that does not include publishing. Use Design Manager to manage SharePoint site branding elements for the publishing site in the SharePoint Online Enterprise edition.
 
 ## See also
 
